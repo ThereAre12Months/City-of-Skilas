@@ -1,0 +1,13 @@
+{
+  "name" : "standard hut",
+  "description" : "A small hut where people can reside in.",
+  "cost" : {
+    "wood" : 5,
+    "gold" : 0,
+    "mana" : 0
+  },
+  "img" : "Graphics/hut.png",
+  "residence" : 5,
+
+
+}

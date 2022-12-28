@@ -1,0 +1,22 @@
+City of Skilas:
+
+currency:
+ - gold   a very valuable resource
+ - wood   the base of every building
+ - mana   a magic substance unknown to mankind but very much used in the City of Skilas
+
+ buildings:
+ - hut
+    |a small home for habitants of the city (generates gold)
+
+ - houthakkershut
+    |a hut where wood gets chopped down (uses people, gold) (generates wood)
+
+ - chiefs hut
+    |the hut of the mighty chief (generates gold) (max 1)
+
+ - hunters hut
+    |the hut of a hunter (uses people, gold) (generates food)
+
+ - gatherers hut
+    |the hut of a gatherer (uses people, gold) (generates food)
